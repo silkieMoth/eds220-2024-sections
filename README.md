@@ -1,6 +1,3 @@
-# eds220-2024-sections
-Work during discussion sections for the EDS 220 MEDS course
-
 # EDS 220 Discussion Sections Repository
 
 This repository hosts all the work completed by Joshua Paul Cohen during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
